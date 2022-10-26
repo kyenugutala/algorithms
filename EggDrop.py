@@ -25,4 +25,4 @@ def eggDropMaxFloor(n, k):
 
 
 if __name__ == '__main__':
-    print(eggDropMaxFloor(2, 36))
+    print(eggDropMaxFloor(2, 7))
